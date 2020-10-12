@@ -1,0 +1,119 @@
+PlotID,Easting,Northing,Habitat,Park,study,site,hab,roadDist,habi,EDEN,Notes
+142,536504,2808483,Pineland,Everglades National Park,EVER,77,Pineland,33,Pineland,1,
+143,536485,2809220,Pineland,Everglades National Park,EVER,78,Pineland,6,Pineland,1,
+144,536925,2809388,Pineland,Everglades National Park,EVER,79,Pineland,71,Pineland,1,
+145,535621,2809271,Pineland,Everglades National Park,EVER,80,Pineland,56,Pineland,1,
+146,534985,2809609,Pineland,Everglades National Park,EVER,81,Pineland,37,Pineland,1,near campground
+147,528268,2812784,Pineland,Everglades National Park,EVER,82,Pineland,112,Pineland,1,
+148,530769,2810345,Pineland,Everglades National Park,EVER,,,,,0,
+149,530971,2812084,Pineland,Everglades National Park,EVER,,,,,0,
+150,535362,2808055,Pineland,Everglades National Park,EVER,,,,,0,Boyscout Camp
+151,531786,2812193,Pineland,Everglades National Park,EVER,,,,,0,
+152,541604,2808702,Pineland,Everglades National Park,EVER,,,,,0,pineland just burned before entry gate
+153,527746,2812493,Pineland,Everglades National Park,EVER,83,Pineland,324,Pineland,1,
+154,528246,2812488,Pineland,Everglades National Park,EVER,84,Pineland,147,Pineland,1,
+155,529464,2812099,Pineland,Everglades National Park,EVER,85,Pineland,349,Pineland,1,
+156,528998,2811739,Pineland,Everglades National Park,EVER,86,Pineland,79,Pineland,1,
+157,531181,2812606,Pineland,Everglades National Park,EVER,87,Pineland,96,Pineland,1,
+158,530641,2811654,Pineland,Everglades National Park,EVER,88,Pineland,72,Pineland,1,
+159,540860,2820201,Rocky Glades,Everglades National Park,EVER,89,Marsh,1897,Prairie,1,context road; need argo
+160,539830,2820200,Rocky Glades,Everglades National Park,EVER,90,Marsh,2927,Prairie,1,context road; need argo
+161,538747,2820200,Rocky Glades,Everglades National Park,EVER,91,Marsh,3315,Prairie,1,context road; need argo
+162,537798,2820194,Rocky Glades,Everglades National Park,EVER,92,Marsh,3151,Prairie,1,context road; need argo
+163,536850,2811189,Rocky Glades,Everglades National Park,EVER,93,Marsh,101,Prairie,1,
+164,526696,2813082,Rocky Glades,Everglades National Park,EVER,94,Marsh,149,Prairie,1,
+165,550475,2843733,Rocky Glades,Everglades National Park,EVER,,,,,0,
+166,521119,2813998,Rocky Glades,Everglades National Park,EVER,95,Marsh,753,Prairie,1,North of Pa Hay Okee tower
+167,542649,2820313,Rocky Glades,Everglades National Park,EVER,,,,,0,Just N of the gate to Context Rd.
+168,542713,2820122,Rocky Glades,Everglades National Park,EVER,,,,,0,Context road
+169,539108,2809915,Rocky Glades,Everglades National Park,EVER,96,Marsh,110,Prairie,1,
+170,542247,2820282,Rocky Glades,Everglades National Park,EVER,97,Marsh,513,Prairie,1,N. side of Context Rd.
+171,538626,2810233,Rocky Glades,Everglades National Park,EVER,98,Marsh,150,Prairie,1,
+172,535500,2811344,Rocky Glades,Everglades National Park,EVER,99,Marsh,141,Prairie,1,
+173,538202,2810440,Rocky Glades,Everglades National Park,EVER,100,Marsh,121,Prairie,1,
+174,535645,2820080,Rocky Glades,Everglades National Park,EVER,101,Marsh,3676,Prairie,1,S. side of Context Rd.
+175,542219,2820160,Rocky Glades,Everglades National Park,EVER,102,Marsh,542,Prairie,1,S. side of Context Rd.
+176,538431,2820141,Rocky Glades,Everglades National Park,EVER,103,Marsh,3178,Prairie,1,S. side of Context Rd.
+177,525459,2834394,Hardwood,Everglades National Park,EVER,104,Hammock,3843,Hammock,1,tree island out in shark slough
+178,538100,2808584,Hardwood,Everglades National Park,EVER,105,Hammock,90,Hammock,1,
+179,534809,2809654,Hardwood,Everglades National Park,EVER,106,Hammock,2,Hammock,1,
+180,539138,2807314,Hardwood,Everglades National Park,EVER,107,Hammock,49,Hammock,1,
+181,520124,2808369,Hardwood,Everglades National Park,EVER,108,Hammock,49,Hammock,1,
+182,516830,2800732,Hardwood,Everglades National Park,EVER,109,Hammock,87,Hammock,0,
+183,524093,2844016,Hardwood,Everglades National Park,EVER,,,,,0,
+184,541760,2833163,Hardwood,Everglades National Park,EVER,110,Hammock,224,Hammock,1,Short hydro hammock at Chekika.
+185,508939,2820539,Hardwood,Everglades National Park,EVER,111,Hammock,13145,Hammock,1,Called 1769 in BICY Database
+186,523441,2837752,Hardwood,Everglades National Park,EVER,,,,,0,Tower spur trail.
+187,523418,2847802,Hardwood,Everglades National Park,EVER,,,,,0,Otter cave trail.
+188,536841,2809770,Hardwood,Everglades National Park,EVER,112,Hammock,123,Hammock,1,
+189,532250,2811980,Hardwood,Everglades National Park,EVER,113,Hammock,6,Hammock,1,
+190,515342,2840894,Hardwood,Everglades National Park,EVER,114,Hammock,2521,Hammock,1,Called 1767 in BICY Database
+191,522255,2813242,Cypress,Everglades National Park,EVER,115,Swamp,225,Swamp,1,
+192,522770,2812872,Cypress,Everglades National Park,EVER,116,Swamp,217,Swamp,1,
+193,522733,2812281,Cypress,Everglades National Park,EVER,117,Swamp,150,Swamp,1,class dome
+194,521909,2810651,Cypress,Everglades National Park,EVER,118,Swamp,72,Swamp,1,
+195,520988,2809544,Cypress,Everglades National Park,EVER,119,Swamp,35,Swamp,1,
+196,518039,2803691,Cypress,Everglades National Park,EVER,120,Swamp,48,Swamp,1,
+197,532925,2801434,Cypress,Everglades National Park,EVER,121,Swamp,35,Swamp,1,S. side of Old Ingram Hwy.
+198,535748,2801948,Cypress,Everglades National Park,EVER,122,Swamp,320,Swamp,1,
+199,537978,2806172,Cypress,Everglades National Park,EVER,123,Swamp,101,Swamp,1,
+200,533319,2801880,Cypress,Everglades National Park,EVER,124,Swamp,226,Swamp,1,
+201,521343,2810194,Cypress,Everglades National Park,EVER,125,Swamp,145,Swamp,1,
+202,534347,2801596,Cypress,Everglades National Park,EVER,126,Swamp,58,Swamp,1,S. side of Old Ingram Hwy.
+203,534620,2801780,Cypress,Everglades National Park,EVER,127,Swamp,126,Swamp,1,
+204,537175,2804948,Cypress,Everglades National Park,EVER,128,Swamp,29,Swamp,1,S. side of Old Ingram Hwy.
+205,518708,2806644,Cypress,Everglades National Park,EVER,129,Swamp,14,Swamp,1,
+206,523128,2812404,Cypress,Everglades National Park,EVER,130,Swamp,17,Swamp,1,
+207,508829,2782802,Mangrove,Everglades National Park,EVER,131,Swamp,62,Mangrove,0,"near Flamingo, has PVC traps"
+208,503646,2810364,Mangrove,Everglades National Park,EVER,132,Swamp,15340,Mangrove,0,"get to by boat, S2"
+209,492087,2805287,Mangrove,Everglades National Park,EVER,133,Swamp,24322,Mangrove,0,"get to by boat, S3"
+210,493907,2811857,Mangrove,Everglades National Park,EVER,134,Swamp,25088,Mangrove,0,"get to by boat, S4"
+211,493989,2811620,Mangrove,Everglades National Park,EVER,135,Swamp,24946,Mangrove,0,"get to by boat, S5"
+212,508645,2782196,Mangrove,Everglades National Park,EVER,136,Swamp,91,Mangrove,0,near Flamingo
+213,484386,2795991,Mangrove,Everglades National Park,EVER,137,Swamp,16969,Mangrove,0,Big Sable Creek
+214,455157,2855440,Mangrove,Everglades National Park,EVER,138,Swamp,6831,Mangrove,0,Called 1654 in BICY database
+215,462010,2853293,Mangrove,Everglades National Park,EVER,139,Swamp,2169,Mangrove,0,Called 1622 in BICY database
+216,470039,2853520,Mangrove,Everglades National Park,EVER,140,Swamp,5996,Mangrove,0,Called 1626 in BICY Database
+217,472787,2836790,Mangrove,Everglades National Park,EVER,141,Swamp,19951,Mangrove,0,Called 1673 in BICY database
+218,475275,2845919,Mangrove,Everglades National Park,EVER,142,Swamp,14266,Mangrove,0,Called 1713 in BICY database
+219,477848,2838856,Mangrove,Everglades National Park,EVER,143,Swamp,18066,Mangrove,0,Called 1569 in BICY database
+220,480777,2842980,Mangrove,Everglades National Park,EVER,144,Swamp,13074,Mangrove,0,Called 1566 in BICY Database
+221,482079,2837036,Mangrove,Everglades National Park,EVER,145,Swamp,16398,Mangrove,0,Called 1567 in BICY database
+222,486043,2833103,Mangrove,Everglades National Park,EVER,146,Swamp,17554,Mangrove,0,Called 1568 in BICY Database
+223,523939,2836447,Slough,Everglades National Park,EVER,147,Marsh,1319,Slough,1,Shark slough; by airboat
+224,525558,2836091,Slough,Everglades National Park,EVER,148,Marsh,2632,Slough,1,Shark slough; by airboat
+225,525369,2835646,Slough,Everglades National Park,EVER,149,Marsh,2788,Slough,1,Shark slough; by airboat
+226,527102,2834476,Slough,Everglades National Park,EVER,150,Marsh,4850,Slough,1,Shark slough; by airboat
+227,540119,2807450,Slough,Everglades National Park,EVER,151,Marsh,4,Slough,1,Taylor slough; no airboat
+228,539743,2809606,Slough,Everglades National Park,EVER,152,Marsh,153,Slough,1,Taylor slough; no airboat
+229,525606,2835434,Slough,Everglades National Park,EVER,,,,,0,Shark slough- Alligator hole by tree island
+230,523766,2840097,Slough,Everglades National Park,EVER,,,,,0,Near canal where we caught alligators
+231,532814,2848491,Slough,Everglades National Park,EVER,,,,,0,1st plot off of L67 ext.
+232,532768,2847779,Slough,Everglades National Park,EVER,,,,,0,Second one down on L-67 ext.
+233,532804,2846870,Slough,Everglades National Park,EVER,,,,,0,3rd plot down on L-67 ext.
+234,539394,2848313,Slough,Everglades National Park,EVER,,,,,0,Night with guys from Lox
+235,536854,2795118,Slough,Everglades National Park,EVER,,,,,0,
+236,536130,2798904,Slough,Everglades National Park,EVER,,,,,0,
+237,540135,2806655,Slough,Everglades National Park,EVER,,,,,0,
+238,523490,2848749,Slough,Everglades National Park,EVER,,,,,0,Beginning of tram road-Short hydro marsh
+239,508540,2820725,Slough,Everglades National Park,EVER,153,Marsh,12910,Slough,1,Called 1972 in BICY database
+240,508748,2818108,Slough,Everglades National Park,EVER,154,Marsh,13788,Slough,1,Called 1949 in BICY Database
+241,509086,2817845,Slough,Everglades National Park,EVER,155,Marsh,13385,Slough,1,Called 1776 in BICY Database
+242,511168,2817220,Slough,Everglades National Park,EVER,156,Marsh,11212,Slough,1,Called 2016 in BICY Database
+243,512842,2816653,Slough,Everglades National Park,EVER,157,Marsh,9445,Slough,1,Called 1805 in BICY Database
+244,514509,2816997,Slough,Everglades National Park,EVER,158,Marsh,8002,Slough,1,Called 1922 in BICY Database
+245,515253,2843812,Slough,Everglades National Park,EVER,159,Marsh,2531,Slough,1,Called 1933 in BICY Database
+246,517224,2819286,Slough,Everglades National Park,EVER,160,Marsh,7165,Slough,1,Called 2116 in BICY Database
+247,517712,2847029,Slough,Everglades National Park,EVER,161,Marsh,2199,Slough,1,Called 1872 in BICY Database
+248,519221,2822512,Slough,Everglades National Park,EVER,162,Marsh,9080,Slough,1,Called 2122 in BICY Database
+249,519508,2836904,Slough,Everglades National Park,EVER,163,Marsh,4022,Slough,1,Called 2008 in BICY database
+250,521401,2837229,Slough,Everglades National Park,EVER,164,Marsh,2102,Slough,1,Called 1975 in BICY Database
+251,522758,2827190,Slough,Everglades National Park,EVER,165,Marsh,10507,Slough,1,Called 1909 in BICY database
+252,537201,2805698,Building,Everglades National Park,EVER,,,,,0,Banana plantation.
+253,541769,2833100,Building,Everglades National Park,EVER,,,,,0,At Chekika.
+254,540216,2849229,Building,Everglades National Park,EVER,,,,,0,Frog city.
+255,532811,2807951,Building,Everglades National Park,EVER,,,,,0,Hole in donut before first gravel hump
+256,536760,2804281,Borrow Pit/Canal,Everglades National Park,EVER,,,,,0,Road/canal on Ingraham Hwy
+257,539295,2807340,Borrow Pit/Canal,Everglades National Park,EVER,,,,,0,Pond at royal palm
+258,520505,2801082,Borrow Pit/Canal,Everglades National Park,EVER,,,,,0,South side of borrow pit Sissal Pond.
+259,520467,2801250,Borrow Pit/Canal,Everglades National Park,EVER,,,,,0,On N side of Sisal Pond.

@@ -1,0 +1,571 @@
+"SampleID","PlotID","Date","Sample","Weather","Wind","Airtemp","Relhumid","Water","Watertemp","Method","Observer","Username","Notes"
+1,"142",2001-4-2 20:31:20,1,"Clear","None",21.60,66,0,,"VES","SHMCC","Amphibian 2",
+2,"144",2001-4-2 19:44:57,1,"Clear","None",22.70,60,0,,"VES","SHMCC","Amphibian 2",
+3,"230",2001-3-22 19:46:22,,"Clear","Light",19.80,59,1,16.50,"VES","JHW MCC manchester hs","Amphibian 2",
+4,"227",2001-3-21 20:40:57,,"Clear","Light",23.40,49,1,21.00,"VES","SHMCC","Amphibian 2",
+5,"228",2001-3-21 19:43:42,,"Clear","Light",23.10,48,0,,"VES","MCCSH","Amphibian 2",
+6,"196",2001-4-5 22:42:38,1,"Clear","None",21.60,68,0,,"VES","ADD JHW","Amphibian 2",
+7,"182",2001-4-5 21:52:08,1,"Clear","None",25.40,54,0,,"VES","ADD JHW","Amphibian 2",
+8,"207",2001-4-5 21:12:55,1,"Clear","None",24.50,63,0,,"VES","ADD JHW","Amphibian 2",
+9,"212",2001-4-5 20:25:09,1,"Clear","Light",16.60,26,0,,"VES","ADD JHW","Amphibian 2",
+10,"193",2001-4-5 23:28:57,1,"Clear","None",22.10,77,1,23.00,"VES","SHMCC","Amphibian 1","Collected two egg masses."
+11,"194",2001-4-5 22:24:26,1,"Clear","None",22.80,70,1,23.00,"VES","SHMCC","Amphibian 1",
+12,"195",2001-4-5 21:31:52,1,"Clear","None",25.10,65,0,,"VES","SHMCC","Amphibian 1",
+13,"181",2001-4-5 20:50:06,1,"Partly Cloudy","None",25.60,64,0,,"VES","SHMCC","Amphibian 1",
+14,"164",2001-4-10 23:14:00,1,"Clear","None",22.40,65,0,,"VES","ADDMCC","Amphibian 2",
+15,"192",2001-4-10 22:25:00,1,"Clear","None",23.50,58,1,22.00,"VES","ADDMCC","Amphibian 2","Adult rsp in culvert in water off road before ves"
+16,"191",2001-4-10 21:30:00,1,"Clear","None",25.20,64,1,21.00,"VES","ADDMCC","Amphibian 2",
+17,"178",2001-4-11 21:40:48,1,"Clear","None",25.60,64,0,,"VES","ADDMCC","Amphibian 2",
+18,"180",2001-4-11 20:57:55,1,"Clear","None",26.00,68,1,27.00,"VES","ADDMCC","Amphibian 2",
+19,"209",2001-4-9 23:26:33,1,"Clear","None",23.90,75,0,,"VES","PGSH","Amphibian 1",
+20,"208",2001-4-9 22:42:57,1,"Clear","None",23.50,70,1,22.00,"VES","SHPG","Amphibian 1",
+21,"211",2001-4-9 22:04:18,1,"Clear","None",25.40,63,0,,"VES","PGSH","Amphibian 1",
+22,"210",2001-4-9 22:02:17,1,"Clear","None",26.20,57,1,24.00,"VES","SHPG","Amphibian 1",
+23,"159",2001-4-12 22:14:18,1,"Clear","None",25.90,99,0,,"VES","ADD JHW MCC","Amphibian 2",
+24,"160",2001-4-12 22:00:47,1,"Clear","None",26.00,99,0,,"VES","ADD JHW MCC","Amphibian 2",
+25,"161",2001-4-12 21:26:41,1,"Clear","None",26.00,99,0,,"VES","ADD JHW MCC","Amphibian 2",
+26,"162",2001-4-12 20:48:26,1,"Clear","None",26.60,99,0,,"VES","ADDJHWMCC","Amphibian 2",
+27,"179",2001-4-26 22:44:24,1,"Partly Cloudy","None",21.20,80,0,,"VES","SHMCC","Amphibian 2",
+28,"196",2001-3-7 22:15:30,,"Clear","None",15.00,59,0,,"VES","ADD , JHW","Manual Entry",
+29,"182",2001-3-7 21:36:46,,"Clear","Light",19.00,53,0,,"VES","ADD , JHW
+","Manual Entry",
+30,"212",2001-3-7 20:31:25,,"Clear","None",24.00,42,0,,"VES","ADD , JHW","Manual Entry",
+31,"207",2001-3-7 19:55:35,,"Clear","None",24.00,39,0,,"VES","ADD , JHW","Manual Entry",
+32,"142",2000-10-18 0:00:00,,"Clear","None",26.00,77,1,27.00,"VES","HW/MC/AF","Manual Entry","No frogs calling"
+33,"147",2000-10-18 0:00:00,,"Clear","None",28.00,64,1,27.00,"VES","HW/MC/AF","Manual Entry","No frogs calling"
+34,"163",2000-10-18 0:00:00,,"Clear","None",26.00,77,1,27.00,"VES","HW/MC/AF","Manual Entry",
+35,"164",2000-10-18 0:00:00,,"Clear","None",26.00,77,1,27.00,"VES","HW/MC/AF","Manual Entry","No frogs calling, short hydroperiod/16m x 16m plot"
+36,"256",2000-10-25 0:00:00,,"Clear","Light",25.70,56,0,,"VES","HW/MC ","Manual Entry","Saw 2 Bufo terrestris and many Rana sphenacephala."
+37,"183",2000-10-31 0:00:00,,"Partly Cloudy","Light",23.70,63,1,25.00,"VES","HW/MC/AF","Manual Entry","Along west side of tram road"
+38,"238",2000-10-31 0:00:00,,"Cloudy","Light",25.20,53,1,25.00,"VES","HW/MC/AF","Manual Entry","Beginning of tram road"
+39,"257",2000-11-14 0:00:00,,"Clear","None",24.90,68,1,24.00,"VES","HW/MC/AF","Manual Entry",
+41,"229",2000-11-16 0:00:00,,"Clear","None",26.50,60,1,24.00,"VES","KR/HW/MC/Slone","Manual Entry","Heard Rgr before 10 min. sampling.  Water depth wa"
+42,"256",2000-11-20 0:00:00,,"Cloudy","Moderate",22.00,71,0,,"VES","HW/MC","Manual Entry",
+43,"147",2000-11-20 0:00:00,,"Cloudy","Moderate",22.50,69,0,,"VES","HW/MC","Manual Entry",
+44,"177",2001-1-8 0:00:00,,"Clear","None",19.90,46,1,20.00,"VES","HW/AD/MC","Manual Entry",
+45,"223",2001-1-8 0:00:00,,"Clear","None",16.30,78,1,17.00,"VES","AF/HW/AD/MC","Manual Entry",
+46,"224",2001-1-8 0:00:00,,"Clear","None",16.60,77,1,16.90,"VES","AF/HW/AD/MC","Manual Entry",
+47,"225",2001-1-8 0:00:00,,"Clear","None",18.50,70,1,19.00,"VES","AF/HW/AD/MC","Manual Entry","This site is in the middle of a rookery therefore "
+48,"226",2001-1-8 0:00:00,,"Clear","None",18.50,70,1,19.00,"VES","AF/HW/AD/MC","Manual Entry",
+49,"147",2001-1-16 0:00:00,,"Clear","None",14.60,87,0,,"VES","HW","Manual Entry","No frogs calling"
+50,"191",2001-1-16 0:00:00,,"Clear","None",24.90,55,1,20.50,"VES","HW","Manual Entry",
+51,"192",2001-1-16 0:00:00,,"Clear","None",21.50,71,1,19.50,"VES","HW","Manual Entry",
+52,"184",2001-4-17 21:11:01,2,"Clear","Light",28.00,99,0,,"VES","ADD JHW MCC SH","Amphibian 1",
+53,"253",2001-4-17 20:42:23,,"Clear","Light",28.00,99,0,,"VES","ADD JHW MCC SH","Amphibian 1",
+54,"187",2001-4-25 23:28:20,,"Clear","None",24.10,74,1,24.00,"VES","ADD JHW MCC SH","Amphibian 1",
+55,"186",2001-4-25 22:05:55,,"Clear","Light",24.60,74,0,,"VES","ADD JHW SH MCC","Amphibian 1",
+56,"143",2001-4-26 22:37:53,1,"Clear","Light",21.20,80,0,,"VES","ADD JHW","Amphibian 1",
+57,"228",2001-4-26 21:44:19,1,"Clear","Light",22.60,78,0,,"VES","ADD JHW","Amphibian 1","Surveyed shortly after rain."
+58,"227",2001-4-26 20:58:39,1,"Clear","Moderate",25.50,67,1,21.50,"VES","ADD JHW","Amphibian 1","Surveyed just prior to rain."
+59,"148",2000-10-25 0:00:00,,"Clear","Light",24.00,72,0,,"VES","JHW MCC","Manual Entry","saw G. carolinensis before start"
+60,"149",2000-10-25 0:00:00,,"Clear","Light",25.70,56,0,,"VES","JHW MCC","Manual Entry",
+61,"163",2001-4-26 22:07:19,1,"Partly Cloudy","None",22.60,78,0,,"VES","SHMCC","Amphibian 2",
+62,"147",2001-4-26 21:28:14,1,"Partly Cloudy","None",25.50,67,1,21.50,"VES","SHMCC","Amphibian 2",
+63,"193",2001-5-1 22:05:08,2,"Partly Cloudy","Light",23.80,85,1,23.50,"VES","MCCSH","Amphibian 1",
+64,"194",2001-5-1 21:20:16,2,"Partly Cloudy","Light",25.70,77,1,22.00,"VES","MCCSH","Amphibian 1",
+65,"192",2001-5-1 21:39:20,2,"Cloudy","None",23.90,85,1,24.50,"VES","ADD JHW","Amphibian 2",
+66,"191",2001-5-1 20:39:48,2,"Cloudy","Light",25.70,77,1,21.50,"VES","ADD JHW","Amphibian 2",
+67,"256",2001-5-2 22:27:32,,"Partly Cloudy","None",25.40,74,1,21.50,"VES","ADD-JHW-MCC-SH","Amphibian 2",
+68,"252",2001-5-2 21:18:19,,"Partly Cloudy","None",25.70,68,0,,"VES","ADD JHW MCC SH","Amphibian 2",
+69,"163",2001-5-7 21:53:24,2,"Partly Cloudy","Light",25.70,56,0,,"VES","ADD JHW","Amphibian 1",
+70,"180",2001-5-7 20:56:29,2,"Clear","Light",25.70,55,0,,"VES","ADD JHW","Amphibian 1",
+71,"147",2001-5-7 22:18:12,2,"Clear","Light",25.70,56,0,,"VES","MCCSH
+
+","Amphibian 2",
+72,"164",2001-5-7 21:36:22,2,"Clear","Light",25.70,55,0,,"VES","SHMCC","Amphibian 2",
+73,"195",2001-5-9 22:40:38,2,"Partly Cloudy","None",25.70,47,0,,"VES","ADD JHW","Amphibian 2",
+74,"181",2001-5-9 21:52:07,2,"Partly Cloudy","None",26.40,47,0,,"VES","ADD JHW","Amphibian 2",
+75,"196",2001-5-9 21:20:46,2,"Partly Cloudy","None",25.60,47,0,,"VES","ADD JHW","Amphibian 2","Very dry."
+76,"212",2001-5-9 23:45:18,2,"Partly Cloudy","None",25.70,47,0,,"VES","MCCSH","Amphibian 1",
+77,"207",2001-5-9 22:21:44,2,"Partly Cloudy","None",26.40,47,0,,"VES","MCCSH","Amphibian 1",
+78,"159",2001-1-17 0:00:00,,"Clear","None",20.60,65,0,,"VES","HW/AF","Manual Entry","Just one southern toad."
+79,"160",2001-1-17 0:00:00,,"Clear","None",21.30,78,0,,"VES","KR/MC","Manual Entry",
+80,"161",2001-1-17 0:00:00,,"Partly Cloudy","None",24.80,66,0,,"VES","KR/MC","Manual Entry","saw about 6-8 leopard frogs in a puddle on the roa"
+81,"162",2001-1-17 0:00:00,,"Clear","None",21.30,78,0,,"VES","HW/AF","Manual Entry","No frogs calling"
+82,"208",2001-1-22 0:00:00,,"Clear","Moderate",14.10,71,0,,"VES","HW","Manual Entry",
+83,"209",2001-1-22 0:00:00,,"Clear","Moderate",14.10,71,0,,"VES","HW","Manual Entry",
+84,"210",2001-1-22 0:00:00,,"Clear","Moderate",14.10,71,0,,"VES","HW/KR","Manual Entry",
+85,"211",2001-1-22 0:00:00,,"Clear","Moderate",14.10,71,0,,"VES","MC/PG","Manual Entry",
+86,"142",2001-1-24 0:00:00,,"Cloudy","Moderate",21.10,33,0,,"VES","HW/RH","Manual Entry","No frogs calling"
+87,"143",2001-1-24 0:00:00,,"Cloudy","Moderate",19.30,37,0,,"VES","HW/RH","Manual Entry","No frogs calling"
+88,"146",2001-1-24 0:00:00,,"Clear","Light",19.30,37,0,,"VES","AF/MC","Manual Entry",
+89,"163",2001-1-24 0:00:00,,"Cloudy","Light",21.10,33,0,,"VES","AF/MC","Manual Entry",
+90,"164",2001-1-24 0:00:00,,"Cloudy","Light",21.10,33,0,,"VES","AF/MC","Manual Entry",
+91,"144",2001-1-30 0:00:00,,"Clear","None",23.60,60,0,,"VES","AF/MC","Manual Entry",
+92,"145",2001-1-30 0:00:00,,"Clear","None",24.10,64,0,,"VES","AF/MC","Manual Entry",
+93,"178",2001-1-30 0:00:00,,"Clear","None",25.90,64,0,,"VES","AF/MC","Manual Entry",
+94,"179",2001-1-30 0:00:00,,"Clear","None",22.60,74,0,,"VES","AF/MC","Manual Entry",
+95,"182",2001-1-30 0:00:00,,"Clear","None",23.70,78,0,,"VES","HW/PG","Manual Entry",
+96,"193",2001-1-30 0:00:00,,"Clear","None",23.70,65,1,21.70,"VES","AF/MC","Manual Entry",
+97,"194",2001-1-30 0:00:00,,"Clear","None",23.80,67,1,21.70,"VES","AF/MC","Manual Entry",
+98,"195",2001-1-30 0:00:00,,"Clear","None",20.30,79,1,21.70,"VES","HW/PG","Manual Entry",
+99,"196",2001-1-30 0:00:00,,"Clear","None",20.30,79,1,21.70,"VES","HW/PG","Manual Entry",
+100,"207",2001-1-30 0:00:00,,"Clear","None",22.90,81,0,,"VES","HW/PG","Manual Entry","No frogs calling"
+101,"212",2001-1-30 0:00:00,,"Clear","None",22.90,81,0,,"VES","HW/PG","Manual Entry",
+102,"180",2001-1-31 0:00:00,,"Clear","None",22.40,73,0,,"VES","HW/MC","Manual Entry","Heard Rsp call after official 10 min. listen--near"
+103,"227",2001-1-31 0:00:00,,"Clear","None",23.80,64,0,,"VES","HW/MC","Manual Entry",
+104,"228",2001-1-31 0:00:00,,"Clear","None",18.20,75,0,,"VES","HW/MC","Manual Entry",
+105,"142",2001-2-6 0:00:00,,"Clear","Light",22.40,51,0,,"VES","SH/PG/AD/KR","Manual Entry",
+106,"178",2001-2-6 0:00:00,,"Clear","Light",22.40,51,0,,"VES","SH/PG/AD/KR","Manual Entry",
+107,"143",2001-2-12 0:00:00,,"Clear","Light",28.00,55,0,,"VES","AD/SH","Manual Entry",
+108,"144",2001-2-12 0:00:00,,"Clear","Light",28.00,58,0,,"VES","AD/SH","Manual Entry",
+109,"145",2001-2-12 0:00:00,,"Clear","None",23.00,84,0,,"VES","AD/SH","Manual Entry",
+110,"192",2001-2-13 0:00:00,,"Clear","Light",23.00,77,1,23.70,"VES","SH/PG/AD ","Manual Entry",
+111,"193",2001-2-13 0:00:00,,"Clear","None",24.00,70,1,23.70,"VES","SH/PG/AD","Manual Entry",
+112,"194",2001-2-13 0:00:00,,"Clear","None",26.50,63,1,23.70,"VES","SH/AD/PG","Manual Entry","Bma called twice before beginning time"
+113,"195",2001-2-13 0:00:00,,"Clear","None",26.50,63,1,23.70,"VES","AD/SH/PG","Manual Entry",
+114,"146",2001-2-14 0:00:00,,"Clear","None",24.00,54,0,,"VES","SH/PG","Manual Entry",
+115,"147",2001-2-14 0:00:00,,"Clear","None",22.00,66,0,,"VES","SH/PG","Manual Entry",
+116,"182",2001-2-14 0:00:00,,"Clear","None",24.00,56,0,,"VES","SH/PG","Manual Entry",
+117,"196",2001-2-14 0:00:00,,"Clear","None",24.00,66,1,23.70,"VES","SH/PG","Manual Entry",
+118,"163",2001-2-15 0:00:00,,"Clear","Light",20.00,83,0,,"VES","AD/SH","Manual Entry",
+119,"164",2001-2-15 0:00:00,,"Clear","Light",24.60,68,0,,"VES","SH/AD ","Manual Entry",
+120,"159",2001-2-21 0:00:00,,"Clear","None",21.00,67,0,,"VES","HW/MC","Manual Entry",
+121,"160",2001-2-21 0:00:00,,"Clear","None",19.80,72,0,,"VES","SH / AD","Manual Entry",
+122,"161",2001-2-21 0:00:00,,"Clear","None",22.90,57,0,,"VES","HW/MC","Manual Entry",
+123,"162",2001-2-21 0:00:00,,"Clear","None",27.60,50,0,,"VES","HW/MC","Manual Entry",
+124,"165",2001-2-21 0:00:00,,"Clear","Moderate",24.00,61,0,,"VES","SH/AD/KR","Manual Entry","Vegetation is sawgrass and Malaluca"
+125,"208",2001-2-22 0:00:00,,"Clear","None",21.40,82,0,,"VES","HW/MC/PG/SH","Manual Entry",
+126,"209",2001-2-22 0:00:00,,"Clear","None",20.00,86,0,,"VES","HW/MC/PG/SH","Manual Entry",
+127,"210",2001-2-22 0:00:00,,"Clear","None",23.90,69,0,,"VES","HW/PG","Manual Entry",
+128,"211",2001-2-22 0:00:00,,"Clear","None",23.90,69,0,,"VES","MC/SH","Manual Entry",
+129,"191",2001-2-26 0:00:00,,"Partly Cloudy","None",26.70,61,1,23.20,"VES","HW/AD","Manual Entry","No calls during survey; one squirrel treefrog afte"
+130,"207",2001-2-26 0:00:00,,"Cloudy","None",27.20,60,0,,"VES","HW/AD","Manual Entry",
+131,"212",2001-2-26 0:00:00,,"Cloudy","None",26.30,64,0,,"VES","HW/AD","Manual Entry",
+132,"227",2001-2-26 0:00:00,,"Cloudy","None",23.30,75,0,,"VES","SH/MC","Manual Entry",
+133,"228",2001-2-26 0:00:00,,"Cloudy","None",28.30,66,0,,"VES","SH/MC","Manual Entry",
+134,"252",2001-2-28 0:00:00,,"Clear","Light",24.00,62,0,,"VES","HW/AD/SH/MC","Manual Entry",
+135,"142",2001-3-1 0:00:00,,"Clear","None",22.40,65,0,,"VES","HW/AD","Manual Entry",
+136,"146",2001-3-1 0:00:00,,"Clear","None",20.70,67,0,,"VES","SH/MC","Manual Entry",
+137,"147",2001-3-1 0:00:00,,"Clear","None",25.40,57,0,,"VES","SH/MC","Manual Entry",
+138,"163",2001-3-1 0:00:00,,"Clear","None",22.10,71,0,,"VES","HW/AD","Manual Entry",
+139,"164",2001-3-1 0:00:00,,"Clear","None",21.20,79,0,,"VES","SH/MC","Manual Entry",
+140,"178",2001-3-1 0:00:00,,"Clear","None",23.20,62,0,,"VES","HW/AD","Manual Entry",
+141,"179",2001-3-1 0:00:00,,"Clear","None",23.70,63,0,,"VES","SH/MC","Manual Entry",
+142,"180",2001-3-1 0:00:00,,"Clear","None",24.20,65,0,,"VES","HW/AD","Manual Entry",
+143,"143",2001-3-5 0:00:00,,"Clear","Moderate",19.00,54,0,,"VES","AD/SH","Manual Entry",
+144,"144",2001-3-5 0:00:00,,"Clear","Light",20.00,49,0,,"VES","AD/SH","Manual Entry",
+145,"145",2001-3-5 0:00:00,,"Clear","Moderate",20.00,47,0,,"VES","AD/SH","Manual Entry",
+146,"191",2001-3-6 0:00:00,,"Clear","Light",18.00,55,1,20.70,"VES","MC/SH","Manual Entry",
+147,"192",2001-3-6 0:00:00,,"Clear","Light",18.00,55,1,20.70,"VES","MC/SH","Manual Entry",
+148,"193",2001-3-6 0:00:00,,"Clear","Light",14.00,67,1,20.70,"VES","MC/SH","Manual Entry",
+149,"162",2001-3-7 19:34:00,,"Clear","Light",20.00,42,0,,"VES","MCC SH","Amphibian 2",
+150,"161",2001-3-7 20:14:00,,"Clear","Light",17.90,46,1,16.00,"VES","MCCSH","Amphibian 2",
+151,"160",2001-3-7 21:03:00,,"Clear","Light",12.50,71,1,16.00,"VES","MCCSH","Amphibian 2",
+152,"159",2001-3-7 21:11:00,,"Clear","Light",12.80,67,0,,"VES","MCCSH","Amphibian 2",
+153,"208",2001-3-12 20:18:10,,"Clear","None",26.00,77,1,24.00,"VES","MCCSH","Amphibian 2",
+154,"211",2001-3-12 19:31:12,,"Clear","None",27.00,74,0,,"VES","MCCSH","Amphibian 2",
+155,"210",2001-3-12 19:00:00,,"Clear","None",27.00,74,1,24.00,"VES","ADDPG","Amphibian 1",
+156,"209",2001-3-12 21:00:00,,"Clear","None",26.00,77,0,,"VES","MC SHPGAD","Manual Entry",
+157,"179",2001-3-19 20:46:41,,"Rain","None",25.90,74,0,,"VES","ADDJHW","Amphibian 1",
+158,"181",2001-3-19 19:46:27,,"Rain","Light",27.80,60,0,,"VES","ADDJHW","Amphibian 1",
+159,"180",2001-3-19 20:03:21,,"Rain","None",25.00,64,0,,"VES","SHMCC","Amphibian 2","We heard 1 rgr and 3 hci and 1 rsp after officdfhd"
+160,"184",2001-3-20 19:32:52,1,"Cloudy","Moderate",23.30,60,0,,"VES","ADD JHW MCC SH","Amphibian 2",
+161,"253",2001-3-20 19:14:06,,"Cloudy","Moderate",24.30,55,0,,"VES","ADD JHW MCC SH","Amphibian 2",
+162,"194",2001-3-6 0:00:00,,"Clear","Light",14.00,67,0,,"VES","ADD JHW","Manual Entry",
+163,"195",2001-3-6 0:00:00,,"Clear","Light",14.00,67,0,,"VES","ADD JHW","Manual Entry",
+164,"181",2001-3-6 0:00:00,,"Clear","Light",14.00,67,0,,"VES","ADD JHW","Manual Entry",
+165,"145",2001-4-2 21:22:20,1,"Clear","Light",24.80,58,0,,"VES","ADD JHW","Amphibian 1",
+166,"146",2001-4-2 19:19:02,1,"Clear","Light",22.30,56,0,,"VES","ADD JHW","Amphibian 1",
+167,"143",2001-7-5 0:00:00,4,"Clear","None",28.50,64,0,,"VES","ADDAG","Manual Entry",
+168,"146",2001-7-5 0:00:00,4,"Clear","None",25.90,81,0,,"VES","ADDAG","Manual Entry","Area freshly burned"
+169,"179",2001-7-5 0:00:00,4,"Clear","None",25.90,81,0,,"VES","ADDAG","Manual Entry",
+170,"225",2001-7-18 22:39:08,1,"Partly Cloudy","Light",25.30,88,1,29.00,"VES","MCCSH","Amphibian 2","Also saw some tadpoles"
+171,"224",2001-7-18 22:04:37,1,"Partly Cloudy","Light",25.60,89,1,29.00,"VES","MCCSH","Amphibian 2",
+172,"226",2001-7-18 21:22:05,1,"Partly Cloudy","Light",26.70,81,1,29.00,"VES;Dipnetting","MCCSH","Amphibian 2",
+173,"151",2001-7-17 22:22:49,,"Partly Cloudy","None",23.70,93,1,25.50,"VES","MCCPG","Amphibian 2","No frogs seen or heard--Ose appeared in truck "
+174,"159",2001-7-25 22:25:36,4,"Partly Cloudy","Light",26.60,82,1,28.00,"VES","ADDMCCSH","Amphibian 2",
+175,"160",2001-7-25 21:44:59,4,"Partly Cloudy","Light",28.10,73,1,32.00,"VES","ADDMCCSH","Amphibian 2","Tadpoles"
+176,"161",2001-7-25 21:00:50,4,"Partly Cloudy","Light",27.30,76,1,31.00,"VES","ADDMCCSH","Amphibian 2",
+177,"162",2001-7-25 20:23:58,4,"Partly Cloudy","Light",29.30,65,1,30.00,"VES","ADDMCCSH","Amphibian 2",
+178,"152",2001-7-24 22:28:14,,"Partly Cloudy","None",25.40,93,0,,"VES","ADDMCCDP","Amphibian 2",
+179,"255",2001-7-24 21:24:04,,"Partly Cloudy","None",26.20,87,1,27.00,"VES","ADDMCCDP","Amphibian 2","Saw some tadpoles"
+180,"234",2001-7-31 0:00:00,,"Clear","Light",25.80,87,1,31.00,"VES","ADDMCC","Amphibian 1","Night with guys from Lox"
+181,"225",2001-8-7 22:14:02,2,"Clear","None",26.90,84,1,32.00,"VES;Dipnetting","MCCSHDP","Amphibian 2","Saw a lot of tadpoles"
+182,"229",2001-8-7 22:58:02,,"Clear","Light",27.20,86,1,32.00,"VES","MCCRRC","Amphibian 2",
+183,"143",2001-8-15 22:43:49,5,"Partly Cloudy","None",27.50,82,0,,"VES","ADD JHW","Amphibian 1",
+184,"144",2001-8-15 22:08:14,5,"Partly Cloudy","None",27.70,82,0,,"VES","ADD JHW","Amphibian 1",
+185,"142",2001-8-15 21:36:35,5,"Partly Cloudy","None",28.10,78,0,,"VES","ADD JHW ","Amphibian 1",
+186,"228",2001-8-15 23:08:06,5,"Partly Cloudy","None",29.30,77,1,32.00,"VES","MCCSH","Amphibian 2","Saw tadpoles"
+187,"178",2001-8-15 22:17:10,5,"Partly Cloudy","None",28.40,76,0,,"VES","MCCSH","Amphibian 2",
+188,"180",2001-8-15 21:42:32,5,"Partly Cloudy","None",27.90,82,1,29.00,"VES","MCCSH","Amphibian 2","heard Ose calling after 10min."
+189,"227",2001-8-20 22:46:49,5,"Partly Cloudy","Light",26.20,90,1,30.00,"VES","ADD JHW MCC","Amphibian 2",
+190,"237",2001-8-20 22:15:30,,"Partly Cloudy","Light",25.60,93,1,31.00,"VES","ADD JHW SH","Amphibian 2",
+191,"182",2001-5-9 21:31:46,2,"Partly Cloudy","None",25.60,47,0,,"VES","MCCSH","Amphibian 1","Ihci calling after survey"
+192,"145",2001-5-14 22:12:14,2,"Clear","None",25.10,51,0,,"VES","SHMCC","Amphibian 2",
+193,"146",2001-5-14 21:21:30,2,"Clear","None",27.60,54,0,,"VES","MCCSH","Amphibian 2",
+194,"179",2001-5-14 20:44:54,2,"Clear","None",27.20,60,0,,"VES","SHMCC","Amphibian 2",
+195,"142",2001-5-10 22:13:49,2,"Partly Cloudy","None",25.70,47,0,,"VES","MCCSH","Amphibian 2",
+196,"143",2001-5-10 21:40:41,2,"Partly Cloudy","None",25.60,47,0,,"VES","MCCSH","Amphibian 2",
+197,"144",2001-5-10 21:09:33,2,"Partly Cloudy","None",25.60,43,0,,"VES","MCCSH","Amphibian 2",
+198,"159",2001-5-17 21:59:16,2,"Clear","Light",23.60,63,0,,"VES","JHW MCC SH","Amphibian 2",
+199,"160",2001-5-17 21:28:07,2,"Clear","Light",25.20,59,0,,"VES","JHW MCC SH","Amphibian 2",
+200,"161",2001-5-17 21:03:17,2,"Clear","Light",26.60,51,0,,"VES","JHW MCC SH","Amphibian 2","Very dry.
+"
+201,"162",2001-5-17 20:30:59,2,"Clear","Light",27.20,53,0,,"VES","JHW MCC SH","Amphibian 2","Sampled 1 week after fire."
+202,"166",2001-5-16 20:42:34,1,"Clear","None",26.10,66,1,23.50,"VES","JHW MCC SH","Amphibian 1",
+203,"143",2001-5-31 0:00:00,3,"Clear","None",29.90,75,0,,"VES","ADD","Amphibian 1",
+204,"144",2001-5-31 0:00:00,3,"Clear","None",29.90,75,0,,"VES","ADD","Amphibian 1","Heard hci after vocal survey"
+205,"142",2001-5-31 0:00:00,3,"Clear","None",29.00,78,0,,"VES","ADD","Amphibian 1",
+206,"182",2001-6-2 0:00:00,3,"Clear","None",26.30,66,0,,"VES","ADDMCC","Amphibian 1",
+207,"212",2001-6-2 0:00:00,3,"Clear","None",26.70,66,0,,"VES","ADDMCC","Amphibian 1",
+208,"207",2001-6-2 0:00:00,3,"Clear","None",27.60,74,1,27.00,"VES","ADDMCC","Amphibian 1",
+209,"232",2001-6-12 22:25:47,,"Clear","Light",26.90,73,0,,"VES","ADD","Amphibian 1",
+210,"231",2001-6-12 21:50:50,,"Partly Cloudy","Light",26.90,73,0,,"VES","JHW KGR","Amphibian 1",
+211,"193",2001-6-12 0:26:40,3,"Clear","None",30.10,75,1,27.50,"VES","SHPG","Amphibian 1","Tadpoles"
+212,"192",2001-6-11 23:11:31,3,"Clear","None",30.00,75,1,28.60,"VES","SHPG","Amphibian 1","Tadpoles"
+213,"191",2001-6-11 22:12:21,3,"Partly Cloudy","None",29.20,85,1,28.60,"VES","SHPG","Amphibian 1","Tadpoles"
+214,"213",2001-5-25 20:45:07,1,"Partly Cloudy","None",31.60,66,0,,"VES","ADDJHWMCCSH","Amphibian 1",
+215,"254",2001-6-12 20:44:59,,"Partly Cloudy","Light",30.80,60,1,27.50,"VES","ADD JHWKGR MCC SH/","Amphibian 1",
+216,"179",2001-6-5 0:00:00,3,"Partly Cloudy","None",29.00,78,0,,"VES","SH MCC","Manual Entry",
+217,"146",2001-6-5 0:00:00,3,"Partly Cloudy","None",29.00,78,0,,"VES","SH MCC","Manual Entry",
+218,"145",2001-6-5 0:00:00,3,"Partly Cloudy","None",29.00,78,0,,"VES","SH MCC","Manual Entry",
+219,"194",2001-6-11 0:00:00,3,"Clear","None",29.20,85,1,28.60,"VES","AD MCC","Manual Entry",
+220,"195",2001-6-11 0:00:00,3,"Clear","None",29.00,85,0,,"VES","AD MCC","Manual Entry",
+221,"181",2001-6-11 0:00:00,3,"Clear","None",29.00,85,0,,"VES","AD MCC","Manual Entry",
+222,"196",2001-6-11 0:00:00,3,"Clear","None",29.00,85,0,,"VES","AD MCC","Manual Entry",
+223,"233",2001-6-12 0:00:00,,"Clear","None",26.90,73,0,,"VES","MCC SH","Manual Entry",
+224,"178",2001-5-23 22:51:09,2,"Cloudy","None",25.00,80,0,,"VES","ADDMCCSH","Amphibian 2",
+225,"227",2001-5-23 22:11:12,2,"Cloudy","None",25.60,85,1,24.80,"VES","ADDMCCSH","Amphibian 2",
+226,"228",2001-5-23 21:21:58,2,"Cloudy","None",26.60,84,1,24.80,"VES","ADDMCCSH","Amphibian 2",
+227,"227",2001-6-13 23:22:37,3,"Partly Cloudy","Light",25.00,87,1,27.00,"VES","ADD JHW","Amphibian 2",
+228,"180",2001-6-13 21:18:02,3,"Partly Cloudy","Light",27.80,73,0,,"VES","ADD JHW","Amphibian 2",
+229,"178",2001-6-13 20:57:44,3,"Clear","Light",26.80,68,0,,"VES","ADD JHW ","Amphibian 2",
+230,"228",2001-6-13 22:26:38,3,"Partly Cloudy","Light",25.40,78,1,28.50,"VES","ADD JHW","Amphibian 2","Also found several tadpoles. Rana and others."
+231,"163",2001-6-13 23:12:57,3,"Clear","Light",25.00,87,0,,"VES","MCCSH","Amphibian 1",
+232,"147",2001-6-13 22:36:33,3,"Clear","None",25.40,78,1,28.50,"VES","MCCSH","Amphibian 1",
+233,"164",2001-6-13 21:27:45,3,"Clear","Light",27.80,73,1,28.50,"VES","MCCSH","Amphibian 1",
+234,"208",2001-5-31 0:00:00,2,"Clear","Light",27.20,89,0,,"VES","ADD JHW MCC SH","Manual Entry",
+235,"209",2001-5-31 0:00:00,2,"Clear","Light",27.20,89,0,,"VES","ADDJHW MCC SH","Manual Entry","Standing Saltwater"
+236,"210",2001-5-31 0:00:00,2,"Clear","Light",27.20,89,0,,"VES","ADD JHW","Manual Entry",
+237,"211",2001-5-31 0:00:00,2,"Clear","Light",27.20,89,0,,"VES","MCC SH","Manual Entry",
+238,"159",2001-6-14 22:45:00,3,"Clear","None",28.80,77,1,26.00,"VES","ADDSH","Amphibian 2",
+239,"160",2001-6-14 22:00:00,3,"Clear","None",28.80,78,1,24.50,"VES","ADDSH","Amphibian 2",
+240,"161",2001-6-14 21:30:00,3,"Clear","None",30.20,73,1,24.00,"VES","ADDSH","Amphibian 2",
+241,"162",2001-6-14 21:10:00,3,"Clear","None",29.60,76,1,24.00,"VES","ADDSH","Amphibian 2",
+242,"258",2001-6-28 21:17:15,,"Cloudy","Light",24.10,88,1,26.00,"VES","MCCSH","Amphibian 2",
+243,"259",2001-6-28 20:58:18,,"Partly Cloudy","Light",25.60,83,1,26.00,"VES","ADD JHW D","Amphibian 1",
+244,"212",2001-7-3 21:15:52,4,"Partly Cloudy","None",28.80,72,0,,"VES","JHWADD","Amphibian 2",
+245,"178",2001-7-2 22:57:16,4,"Clear","None",25.80,80,0,,"VES","ADD","Amphibian 2",
+246,"181",2001-1-30 0:00:00,,"Clear","None",21.70,77,0,,"VES","PG/HW","Manual Entry","This was not entered until 11/19/01"
+247,"151",2001-11-19 0:00:00,,"Partly Cloudy","Light Wind",21.60,82,0,,"VES","AD/MC/SH/HW","Manual Entry",
+248,"149",2001-11-19 0:00:00,,"Partly Cloudy","Light Wind",21.60,82,0,,"VES","HW/ADD","Manual Entry",
+249,"164",2001-11-19 0:00:00,,"Partly Cloudy","Light Wind",20.30,94,1,23.00,"VES","HW/AD","Manual Entry",
+250,"147",2001-11-19 0:00:00,,"Partly Cloudy","None",27.90,57,0,,"VES","MC/SH","Manual Entry",
+251,"193",2001-11-19 0:00:00,,"Partly Cloudy","None",23.30,79,1,25.00,"VES","MC/SH","Manual Entry",
+252,"145",2001-11-20 0:00:00,,"Partly Cloudy","None",19.80,81,0,,"VES","AD/HW","Manual Entry",
+253,"179",2001-11-20 0:00:00,,"Partly Cloudy","None",21.60,79,0,,"VES","MC/SH","Manual Entry","Rained earlier in evening"
+254,"255",2001-11-26 22:01:42,,"Clear","None",16.70,90,0,,"VES","ADD JHW","Amphibian 2",
+255,"178",2001-11-26 20:52:15,,"Clear","Light",17.20,84,0,,"VES","ADD JHW","Amphibian 2",
+256,"163",2001-11-26 20:06:30,,"Clear","None",18.20,85,0,,"VES","ADD JHW","Amphibian 2",
+257,"228",2001-11-26 19:10:28,,"Partly Cloudy","Light",20.30,82,1,24.00,"VES","ADD JHW","Amphibian 2",
+258,"152",2001-11-26 18:34:58,,"Clear","Light",22.00,48,0,,"VES","ADD JHW","Amphibian 2",
+259,"234",2001-11-28 21:29:57,,"Clear","None",21.90,76,1,21.50,"VES","ADDJHW","Amphibian 2",
+260,"254",2001-11-28 20:58:45,,"Clear","None",21.30,85,0,,"VES","ADDJHW","Amphibian 2",
+261,"231",2001-11-28 20:20:18,,"Partly Cloudy","None",17.90,91,1,23.50,"VES","ADDJHW","Amphibian 2",
+262,"232",2001-11-28 19:44:33,,"Clear","Light",20.60,76,1,23.50,"VES","ADDJHW","Amphibian 2",
+263,"233",2001-11-28 19:10:54,,"Clear","Light",19.70,83,1,23.50,"VES","ADDJHW","Amphibian 2",
+264,"167",2001-11-27 20:31:21,,"Clear","Light",18.80,80,0,,"VES","ADD JHW","Amphibian 2",
+265,"159",2001-11-27 19:50:28,,"Clear","Light",19.40,82,1,22.00,"VES","ADD JHW MCC SH","Amphibian 2",
+266,"160",2001-11-27 19:16:51,,"Clear","Light",21.50,76,1,24.00,"VES","ADD JHW MCC SH","Amphibian 2",
+267,"161",2001-11-27 18:41:45,,"Clear","Light",21.40,78,1,24.00,"VES","ADD JHW MCC SH","Amphibian 2",
+268,"162",2001-11-27 18:08:01,,"Clear","Light",22.90,70,1,25.00,"VES","ADD JHW MCC SH","Amphibian 2",
+269,"186",2001-11-28 21:30:38,,"Clear","Light",21.70,80,1,24.00,"VES","MCCSH","Amphibian 1",
+270,"230",2001-11-28 20:57:30,,"Clear","Light",22.50,71,1,24.00,"VES","MCCSH","Amphibian 1",
+271,"163",2001-7-2 22:33:40,4,"Clear","None",25.90,78,0,,"VES","ADD","Amphibian 2",
+272,"147",2001-7-2 22:02:33,4,"Clear","None",26.00,78,0,,"VES","ADD","Amphibian 2",
+273,"164",2001-7-2 21:30:00,4,"Clear","None",25.90,80,1,28.00,"VES","ADD","Amphibian 2",
+274,"207",2001-7-3 21:20:01,4,"Partly Cloudy","None",29.70,69,0,,"VES","MCCSH","Amphibian 1","Ose was in pvc that marks site"
+275,"181",2001-7-2 23:43:20,4,"Partly Cloudy","None",26.10,67,0,,"VES","MCCSH","Amphibian 1",
+276,"196",2001-7-2 22:51:34,4,"Partly Cloudy","None",27.30,63,1,28.00,"VES","MCCSH","Amphibian 1","Saw one tadpole in puddle-
+-dont know spp."
+277,"182",2001-7-2 22:04:11,4,"Partly Cloudy","None",25.70,81,0,,"VES","MCCSH","Amphibian 1",
+278,"208",2001-7-12 23:32:30,3,"Partly Cloudy","Light",25.10,86,1,26.50,"VES","JHW MCC SH dp","Amphibian 2",
+279,"211",2001-7-12 21:45:27,3,"Partly Cloudy","None",27.80,56,1,26.50,"VES","JHW dp","Amphibian 2",
+280,"194",2001-7-6 0:00:04,4,"Partly Cloudy","None",24.60,85,1,27.00,"VES","JHW PG","Amphibian 2",
+281,"193",2001-7-5 23:25:18,4,"Partly Cloudy","None",24.40,88,1,27.00,"VES","JHW PG","Amphibian 2",
+282,"192",2001-7-5 22:46:54,4,"Partly Cloudy","None",25.90,81,1,27.00,"VES","JHW PG","Amphibian 2",
+283,"191",2001-7-5 21:49:58,4,"Cloudy","None",28.50,64,1,27.00,"VES","JHW PG","Amphibian 2",
+284,"228",2001-7-5 23:16:53,4,"Partly Cloudy","None",24.40,88,1,27.00,"VES","MCCSH","Amphibian 1",
+285,"180",2001-7-5 22:35:31,4,"Partly Cloudy","None",25.90,81,1,27.00,"VES","MCCSH","Amphibian 1","Saw bufo terrestris in royal palm parking lot"
+286,"144",2001-7-5 21:30:48,4,"Partly Cloudy","None",29.10,65,0,,"VES","MCCSH","Amphibian 1",
+287,"210",2001-7-12 22:13:27,3,"Clear","None",27.10,79,0,,"VES","SHMCC","Amphibian 1","No frogs seen or heard"
+288,"227",2001-7-5 23:45:00,4,"Partly Cloudy","None",24.60,85,1,27.00,"VES","MCCSH","Amphibian 1","Saw many tadpoles along airboat trail"
+289,"209",2001-7-12 0:00:00,3,"Partly Cloudy","Light",25.10,86,0,,"VES","JHW MCC SH dp","Manual Entry",
+290,"195",2001-7-17 21:41:52,4,"Partly Cloudy","None",23.40,77,1,25.50,"VES","MCCPG","Amphibian 2",
+291,"145",2001-7-17 21:09:20,4,"Cloudy","None",27.80,79,0,,"VES","ADDAG
+AG","Amphibian 1",
+292,"223",2001-7-18 22:32:42,1,"Clear","Light",26.10,87,1,29.00,"VES;Dipnetting","ADDJHWAG","Amphibian 1",
+293,"177",2001-7-18 21:26:04,1,"Clear","Light",26.30,84,1,29.00,"VES;Dipnetting","ADDJHW
+AG","Amphibian 1",
+294,"150",2001-7-17 22:04:44,,"Partly Cloudy","None",23.70,95,1,25.50,"VES","ADDAG
+AG","Amphibian 1",
+295,"142",2001-7-5 0:00:00,4,"Clear","None",29.10,65,0,,"VES","ADDAG","Manual Entry",
+296,"236",2001-8-20 21:09:02,,"Partly Cloudy","Light",26.20,84,1,32.50,"VES","ADD JHW MCC","Amphibian 2",
+297,"235",2001-8-20 20:25:30,,"Partly Cloudy","Light",27.80,79,1,34.00,"VES","ADD JHW MCC","Amphibian 2",
+298,"223",2001-8-23 0:06:52,2,"Partly Cloudy","Light",25.80,91,1,29.00,"VES","ADD JHW","Amphibian 1",
+299,"224",2001-8-22 23:35:04,2,"Partly Cloudy","Light",25.60,91,1,29.00,"VES;Dipnetting","ADD JHW","Amphibian 1",
+300,"225",2001-8-22 23:07:59,3,"Partly Cloudy","Light",25.60,91,1,29.00,"VES;Dipnetting","ADD JHW","Amphibian 1",
+301,"177",2001-8-22 22:26:11,2,"Partly Cloudy","Light",25.20,93,1,29.00,"VES","ADD JHW","Amphibian 1",
+302,"226",2001-8-22 21:04:00,2,"Partly Cloudy","Light",26.00,86,1,30.00,"VES","ADD JHW","Amphibian 1",
+303,"179",2001-8-21 22:08:04,5,"Partly Cloudy","Light",24.30,98,0,,"VES","ADD JHW","Amphibian 1",
+304,"146",2001-8-21 21:39:14,5,"Partly Cloudy","None",24.10,98,0,,"VES","ADD JHW","Amphibian 1","Nice chorus of Chorus frogs."
+305,"145",2001-8-21 20:57:13,5,"Partly Cloudy","Light",23.60,97,0,,"VES","ADD JHW","Amphibian 1",
+306,"192",2001-8-27 23:37:56,5,"Cloudy","None",25.90,86,1,28.50,"VES","ADD JHW","Amphibian 2",
+307,"191",2001-8-27 22:33:28,5,"Cloudy","Light",25.80,86,0,28.50,"VES","ADD JHW","Amphibian 2",
+308,"164",2001-8-27 21:31:05,5,"Cloudy","Light",26.20,78,1,28.50,"VES","ADD JHW","Amphibian 2",
+309,"147",2001-8-27 20:39:04,5,"Rain","Light",25.60,86,1,28.00,"VES","ADD JHW","Amphibian 2",
+310,"193",2001-8-28 23:26:44,5,"Clear","None",29.70,78,1,29.50,"VES","MCCSH","Amphibian 1",
+311,"194",2001-8-28 22:48:01,5,"Clear","None",28.80,71,1,29.00,"VES","MCCSH","Amphibian 1","Saw juvenile alligator"
+312,"195",2001-8-28 22:22:21,5,"Clear","None",28.90,73,1,29.50,"VES","MCCSH","Amphibian 1",
+313,"196",2001-8-28 21:51:34,5,"Clear","None",30.40,59,1,30.00,"VES","MCCSH","Amphibian 1",
+314,"207",2001-8-27 22:29:16,5,"Cloudy","None",32.00,83,1,28.50,"VES","MCCSH","Amphibian 1",
+315,"212",2001-8-27 22:23:45,5,"Cloudy","None",32.00,83,1,28.50,"VES","MCCSH","Amphibian 1",
+316,"181",2001-8-27 20:57:13,5,"Cloudy","None",24.60,84,0,,"VES","MCCSH","Amphibian 1",
+317,"167",2001-8-29 21:27:01,,"Partly Cloudy","Light",25.90,88,1,28.00,"VES","ADD JHW","Amphibian 2",
+318,"168",2001-8-29 21:21:58,,"Partly Cloudy","None",26.00,87,1,30.00,"VES","MCCSH","Amphibian 1",
+319,"163",2001-9-5 22:31:26,5,"Cloudy","None",24.30,93,1,26.00,"VES","SHMCC","Amphibian 1",
+320,"228",2001-9-5 22:00:15,6,"Cloudy","None",26.00,90,1,27.00,"VES","SHSHMCC","Amphibian 1",
+321,"180",2001-9-5 21:06:28,6,"Cloudy","None",23.70,96,1,26.50,"VES","MCCSH","Amphibian 1",
+322,"143",2001-9-5 22:06:45,6,"Cloudy","None",25.20,88,0,,"VES","ADD JHW","Amphibian 2",
+323,"144",2001-9-5 21:31:25,6,"Cloudy","None",25.30,83,0,,"VES","ADD JHW","Amphibian 2",
+324,"142",2001-9-5 20:56:32,6,"Cloudy","Light",25.20,84,0,,"VES","ADD JHW","Amphibian 2",
+325,"145",2001-9-6 22:52:00,6,"Cloudy","None",25.20,88,0,,"VES","SHMCC","Amphibian 1",
+326,"146",2001-9-6 22:09:00,6,"Cloudy","None",25.40,88,1,28.50,"VES","MCCSH","Amphibian 1",
+327,"179",2001-9-6 21:20:32,6,"Cloudy","None",25.30,89,0,,"VES","MCCSH","Amphibian 1","Cuban called at end"
+328,"178",2001-9-6 20:42:44,6,"Cloudy","None",25.10,93,0,,"VES","MCCSH","Amphibian 1",
+329,"147",2001-9-6 23:17:58,6,"Partly Cloudy","None",24.60,92,1,28.00,"VES","ADD JHW","Amphibian 2",
+330,"164",2001-9-6 22:38:47,6,"Partly Cloudy","None",26.40,87,1,28.50,"VES","ADD JHW","Amphibian 2",
+331,"194",2001-9-6 21:48:07,6,"Partly Cloudy","None",27.10,80,1,28.50,"VES","ADD JHW","Amphibian 2",
+332,"195",2001-9-6 21:00:33,6,"Partly Cloudy","None",27.70,52,1,28.00,"VES","ADD JHW","Amphibian 2",
+333,"192",2001-9-13 21:52:42,6,"Rain","Light",25.80,80,1,28.00,"VES","ADD JHW MCC SH","Amphibian 2",
+334,"191",2001-9-13 20:34:46,6,"Rain","Moderate",26.30,78,1,28.00,"VES","ADD JHW MCC SH","Amphibian 2",
+335,"212",2001-9-12 22:18:05,6,"Rain","Light",24.80,91,1,26.00,"VES","ADD JHW","Amphibian 2",
+336,"207",2001-9-12 21:42:18,6,"Rain","Light",25.80,91,1,27.00,"VES","ADD JHW","Amphibian 2",
+337,"196",2001-9-12 20:51:43,6,"Partly Cloudy","None",26.50,83,1,27.00,"VES","ADD JHW","Amphibian 2",
+338,"193",2001-9-12 22:43:44,6,"Cloudy","Light",26.30,83,1,26.00,"VES","MCCSH","Amphibian 1",
+339,"181",2001-9-12 21:15:58,6,"Partly Cloudy","None",24.40,90,0,,"VES","MCCSH","Amphibian 1",
+340,"159",2001-9-20 23:03:32,5,"Partly Cloudy","Light",25.70,78,1,28.00,"VES","ADDSH","Amphibian 1",
+341,"160",2001-9-20 22:19:25,5,"Partly Cloudy","Light",26.90,75,1,29.00,"VES","ADDSH","Amphibian 1",
+342,"161",2001-9-20 21:32:29,5,"Partly Cloudy","Light",26.30,76,1,31.00,"VES","ADDSH","Amphibian 1",
+343,"162",2001-9-20 20:46:19,5,"Partly Cloudy","Moderate",27.20,76,1,33.00,"VES","SHADD","Amphibian 1",
+344,"224",2001-9-24 23:36:37,3,"Partly Cloudy","Light",28.00,83,1,31.00,"VES","ADDMCCSH","Amphibian 1",
+345,"225",2001-9-24 23:05:27,4,"Partly Cloudy","Light",27.60,84,1,30.00,"VES","ADDMCCSH","Amphibian 1",
+346,"226",2001-9-24 22:35:17,3,"Partly Cloudy","Light",27.60,83,1,30.00,"VES","ADDMCCSH","Amphibian 1",
+347,"194",2001-11-14 0:00:00,,"Clear","None",21.10,83,1,24.00,"VES","SH/MC","Manual Entry",
+348,"195",2001-11-14 0:00:00,,"Clear","None",20.50,86,1,24.00,"VES","SH/MC","Manual Entry",
+349,"181",2001-11-14 0:00:00,,"Clear","None",20.40,86,0,,"VES","SH/MC","Manual Entry",
+350,"196",2001-11-14 0:00:00,,"Clear","None",22.90,72,1,25.00,"VES","SH/MC","Manual Entry",
+351,"211",2001-11-15 0:00:00,,"Partly Cloudy","None",22.20,74,1,21.00,"VES","MC/HW","Manual Entry",
+352,"210",2001-11-15 0:00:00,,"Partly Cloudy","None",22.20,74,1,21.00,"VES","AD/CW","Manual Entry",
+353,"209",2001-11-15 0:00:00,,"Cloudy","Light",21.20,83,1,21.50,"VES","HW/CW/MC/AD","Manual Entry",
+354,"208",2001-11-15 0:00:00,,"Partly Cloudy","None",20.20,85,1,21.50,"VES","AD/CW/HW/MC","Manual Entry",
+355,"183",2001-11-28 20:05:15,,"Clear","Light",22.70,71,1,24.00,"VES","MCCSH","Amphibian 1",
+356,"238",2001-11-28 19:14:22,,"Clear","Light",22.60,70,1,25.00,"VES","MCCSH","Amphibian 1",
+357,"168",2001-11-27 20:38:08,,"Clear","Light",18.80,80,0,,"VES","SHMCC","Amphibian 1",
+358,"150",2001-11-20 0:00:00,,"Partly Cloudy","Light",19.80,81,0,,"VES","ADJHW","Manual Entry",
+359,"146",2001-11-20 0:00:00,,"Partly Cloudy","Light",21.60,79,0,,"VES","MCCSH","Manual Entry","Rained earlier in evening; saw Hci near plot 303"
+360,"227",2001-11-26 0:00:00,,"Clear","Light",19.10,83,1,24.00,"VES","MCCSH","Manual Entry",
+361,"235",2001-11-26 0:00:00,,"Clear","Light",21.20,77,1,25.00,"VES","MCCSH","Manual Entry",
+362,"237",2001-11-26 0:00:00,,"Clear","Light",19.20,81,1,24.00,"VES","MCCSH","Manual Entry",
+363,"236",2001-11-26 0:00:00,,"Clear","Light",19.10,89,1,24.00,"VES","MCCSH","Manual Entry",
+364,"187",2001-11-28 22:27:29,,"Clear","Light",21.80,74,1,24.00,"VES","MCCSH","Amphibian 1","Otter cave trail covered in water."
+365,"257",2000-10-25 0:00:00,,"Clear","Light",24.00,72,0,,"VES","HWMCC","Manual Entry",
+366,"191",2001-11-29 23:09:52,,"Clear","None",22.80,80,1,24.00,"VES","MCCSH","Amphibian 1",
+367,"192",2001-11-29 22:21:26,,"Partly Cloudy","None",22.10,87,1,24.00,"VES","MCCSH","Amphibian 1",
+368,"181",2001-11-29 20:26:21,,"Clear","None",21.80,70,0,,"VES","MCCSH","Amphibian 1",
+369,"146",2001-12-4 20:37:45,,"Clear","None",20.90,76,0,,"VES","ADDBMJ","Amphibian 1",
+370,"179",2001-12-4 20:25:54,,"Clear","None",22.10,69,0,,"VES","ADDBMJ","Amphibian 1",
+371,"180",2001-12-4 19:06:08,,"Clear","None",20.30,83,0,,"VES","ADDBMJ","Amphibian 1",
+372,"178",2001-12-4 18:32:50,,"Clear","None",20.70,79,0,,"VES","ADDBMJ","Amphibian 1",
+373,"228",2001-12-5 20:50:50,,"Partly Cloudy","Light",22.60,83,1,24.00,"VES","ADDBMJ","Amphibian 1",
+374,"164",2001-12-5 19:54:19,,"Clear","Light",21.40,82,0,,"VES","ADDBMJ","Amphibian 1",
+375,"194",2001-12-5 19:18:21,,"Clear","None",27.60,53,1,24.00,"VES","ADDBMJ","Amphibian 1",
+376,"195",2001-12-5 18:17:02,,"Partly Cloudy","Light",22.40,18,1,23.00,"VES","ADDBMJ","Amphibian 1",
+377,"193",2001-11-29 21:17:27,,"Partly Cloudy","None",21.30,78,1,24.00,"VES","MCCSH","Amphibian 1","Saw npi at beginning of 403"
+378,"192",2001-12-6 0:00:00,,"Clear","Light",24.30,81,1,24.00,"VES","MCCSH","Manual Entry",
+379,"191",2001-12-6 0:00:00,,"Clear","None",24.20,84,1,24.00,"VES","MCCSH","Manual Entry",
+380,"147",2001-12-5 0:00:00,,"Clear","None",22.20,80,0,,"VES","MCCSH","Manual Entry",
+381,"196",2001-12-5 0:00:00,,"Clear","None",23.10,76,1,22.00,"VES","MCCSH","Manual Entry",
+382,"207",2001-12-5 0:00:00,,"Clear","None",25.00,67,1,22.00,"VES","MCCSH","Manual Entry",
+383,"212",2001-12-5 0:00:00,,"Clear","None",23.70,73,1,22.00,"VES","MCCSH","Manual Entry",
+384,"142",2001-12-4 0:00:00,,"Clear","None",19.90,76,0,,"VES","MCCSH","Manual Entry",
+385,"143",2001-12-4 0:00:00,,"Clear","None",18.90,88,0,,"VES","MCCSH","Manual Entry",
+386,"144",2001-12-4 0:00:00,,"Clear","None",19.80,80,0,,"VES","MCCSH","Manual Entry",
+387,"227",2001-12-6 20:04:12,,"Clear","Moderate",23.70,80,1,24.00,"VES","ADDBMJ","Amphibian 1",
+388,"163",2001-12-6 19:21:32,,"Partly Cloudy","Moderate",24.10,82,0,,"VES","ADDBMJ","Amphibian 1",
+389,"145",2001-12-6 18:26:05,,"Clear","Light",24.70,75,0,,"VES","ADDBMJ","Amphibian 1",
+390,"226",2001-12-12 22:09:49,,"Clear","None",21.50,93,1,25.00,"VES","ADDSHBMJ","Amphibian 1",
+391,"224",2001-12-12 19:35:09,,"Clear","Light",22.60,84,1,24.00,"VES","ADDSHBMJ","Amphibian 1",
+392,"223",2001-12-12 18:51:51,,"Clear","Light",23.10,84,1,25.00,"VES","ADDSHBMJ","Amphibian 1",
+393,"225",2001-12-11 21:33:58,,"Clear","None",23.20,93,1,25.00,"VES","ADDSHBMJ","Amphibian 1",
+394,"177",2001-12-11 20:48:26,,"Clear","None",24.40,84,1,25.00,"VES","BMJADDSH","Amphibian 1",
+395,"144",2000-10-18 0:00:00,,"Clear","None",26.00,77,0,,"VES","AF JHW","Manual Entry","Updated 12/13/01 by JHW."
+396,"179",2000-11-1 0:00:00,,"Cloudy","Light",25.20,53,0,,"VES","HW/MC/AF","Manual Entry","Updated by JHW 12/13/01."
+397,"159",2001-12-17 20:58:11,,"Clear","None",21.40,78,1,23.00,"VES","ADDJHWMCCSH","Amphibian 1",
+398,"160",2001-12-17 20:15:05,,"Clear","None",21.40,84,1,25.00,"VES","ADDJHWMCCSH","Amphibian 1",
+399,"161",2001-12-17 19:41:28,,"Clear","None",21.80,81,1,25.00,"VES","ADDJHWMCCSH","Amphibian 1",
+400,"177",2001-9-24 21:49:32,3,"Partly Cloudy","Light",28.20,79,1,31.00,"VES","ADDMCCSH","Amphibian 1",
+401,"223",2001-9-24 20:56:19,3,"Partly Cloudy","Moderate",28.80,72,1,32.00,"VES","ADDMCCSH","Amphibian 1",
+402,"227",2001-9-26 20:14:57,6,"Partly Cloudy","Light",24.90,89,1,29.00,"VES","ADDMCCSH","Amphibian 2",
+403,"144",2001-10-3 22:51:43,7,"Partly Cloudy","Light",24.30,84,0,,"VES","MCCSHRDW","Amphibian 1",
+404,"143",2001-10-3 22:14:00,7,"Partly Cloudy","Light",24.00,86,0,,"VES","MCCSHRDW","Amphibian 1",
+405,"142",2001-10-3 21:40:22,7,"Partly Cloudy","Light",24.40,82,0,,"VES","MCCSHRDW","Amphibian 1",
+406,"180",2001-10-3 20:52:44,7,"Partly Cloudy","Light",24.90,83,1,26.00,"VES","MCCSHRDW","Amphibian 1","We also saw southern toads in the parking lot."
+407,"212",2001-10-2 20:27:45,7,"Clear","None",24.80,64,1,25.00,"VES","ADDMCCSH","Amphibian 1",
+408,"207",2001-10-2 20:00:00,7,"Clear","None",24.80,62,1,25.00,"VES","ADDMCCSH","Amphibian 1",
+409,"208",2001-10-25 0:00:00,4,"Partly Cloudy","Light",27.00,99,1,29.40,"VES","JHWMCCADDSH","Manual Entry",
+410,"209",2001-10-25 0:00:00,4,"Partly Cloudy","Light",27.00,99,1,29.40,"VES","JHWMCCADDSH","Manual Entry",
+411,"210",2001-10-25 0:00:00,4,"Partly Cloudy","None",27.00,99,1,29.40,"VES","ADDJHW","Manual Entry",
+412,"211",2001-10-25 0:00:00,4,"Partly Cloudy","None",27.00,99,1,29.40,"VES","MCCSH","Manual Entry",
+413,"224",2001-10-30 0:00:00,4,"Partly Cloudy","Light",22.20,77,1,22.50,"VES","AD/MC/SH/HW","Manual Entry",
+414,"225",2001-10-30 0:00:00,5,"Cloudy","Light",22.20,77,1,22.50,"VES","AD/MC/SH/HW","Manual Entry",
+415,"226",2001-10-30 0:00:00,4,"Partly Cloudy","Light",22.20,77,1,22.50,"VES","AD/MC/SH/HW","Manual Entry",
+416,"177",2001-10-30 0:00:00,4,"Partly Cloudy","Light",22.20,77,1,22.50,"VES; Dipnetting","AD/MC/SH/HW","Manual Entry",
+417,"223",2001-10-30 0:00:00,4,"Cloudy","Light",22.20,77,1,22.50,"VES; Dipnetting","AD/MC/SH/HW","Manual Entry","Drizzled rain earlier in evening"
+418,"163",2001-10-31 0:00:00,6,"Partly Cloudy","Moderate",22.20,73,1,23.40,"VES","AD/HW","Manual Entry",
+419,"179",2001-10-31 0:00:00,7,"Partly Cloudy","Light",22.20,73,0,,"VES","AD/HW","Manual Entry",
+420,"146",2001-10-31 0:00:00,7,"Partly Cloudy","Light",22.20,73,0,,"VES","AD/HW","Manual Entry",
+421,"227",2001-10-31 0:00:00,7,"Partly Cloudy","Light",22.20,73,1,23.40,"VES","AD/HW","Manual Entry",
+422,"178",2001-10-31 0:00:00,7,"Partly Cloudy","No Wind",22.20,73,0,,"VES","SH/MC","Manual Entry",
+423,"147",2001-10-31 0:00:00,7,"Partly Cloudy","Light",22.20,73,1,23.40,"VES","SH/MC","Manual Entry",
+424,"164",2001-10-31 0:00:00,7,"Partly Cloudy","Light",22.20,73,1,23.40,"VES","SH/MC","Manual Entry",
+425,"228",2001-10-31 0:00:00,7,"Partly Cloudy","Light",22.20,73,1,23.40,"VES","SH/MC","Manual Entry",
+426,"180",2001-11-1 0:00:00,,"Partly Cloudy","Light",25.50,75,0,,"VES","SH/AD/MC/LH","Manual Entry",
+427,"195",2001-11-1 0:00:00,7,"Partly Cloudy","Light",25.50,75,1,24.30,"VES","MC/SH/AD/LH","Manual Entry",
+428,"194",2001-11-1 0:00:00,7,"Partly Cloudy","Light",25.50,75,1,24.30,"VES","SH/AD/MC/LH","Manual Entry",
+429,"193",2001-11-1 0:00:00,7,"Partly Cloudy","Light",25.50,75,1,24.30,"VES","SH/LH/AD/MC","Manual Entry",
+430,"191",2001-11-5 0:00:00,,"Partly Cloudy","Light",20.00,99,1,23.00,"VES","AD/HW","Manual Entry",
+431,"192",2001-11-5 0:00:00,,"Partly Cloudy","Light",20.00,99,1,23.00,"VES","AD/HW","Manual Entry",
+432,"145",2001-11-5 0:00:00,,"Partly Cloudy","None",20.00,99,0,,"VES","SH/MC","Manual Entry",
+433,"181",2001-11-5 0:00:00,,"Partly Cloudy","None",20.00,99,0,,"VES","SH/MC","Manual Entry",
+434,"196",2001-11-5 0:00:00,,"Partly Cloudy","None",20.00,99,1,23.00,"VES","SH/MC","Manual Entry",
+435,"161",2001-11-6 0:00:00,,"Partly Cloudy","Light",19.40,83,1,23.20,"VES","HW/AD/MC/SH","Manual Entry",
+436,"162",2001-11-6 0:00:00,,"Partly Cloudy","Moderate",19.40,83,1,23.20,"VES","HW/AD/MC/SH","Manual Entry",
+437,"159",2001-11-6 0:00:00,,"Partly Cloudy","Light",19.40,83,1,23.20,"VES","AD/SH/MC/HW","Manual Entry",
+438,"160",2001-11-6 0:00:00,,"Partly Cloudy","Light",19.40,83,1,23.20,"VES","HW/AD/SH/MC","Manual Entry",
+439,"143",2001-11-7 0:00:00,,"Partly Cloudy","None",19.40,82,0,,"VES","AD/HW","Manual Entry",
+440,"142",2001-11-7 0:00:00,,"Partly Cloudy","None",19.40,82,0,,"VES","AD/HW","Manual Entry",
+441,"144",2001-11-7 0:00:00,,"Partly Cloudy","None",19.40,82,0,,"VES","AD/HW","Manual Entry",
+442,"212",2001-11-7 0:00:00,,"Clear","None",19.40,82,1,23.30,"VES","SH/MC","Manual Entry",
+443,"207",2001-11-7 0:00:00,,"Clear","None",19.40,82,1,23.30,"VES","SH/MC","Manual Entry",
+444,"223",2001-11-13 0:00:00,,"Clear","None",19.90,94,1,24.60,"VES","AD/SH/MC/HW","Manual Entry",
+445,"224",2001-11-13 0:00:00,,"Clear","Light",21.40,85,1,24.60,"VES","AD/MC/SH/HW","Manual Entry",
+446,"225",2001-11-13 0:00:00,,"Clear","None",22.00,79,1,24.60,"VES","AD/MC/SH/HW","Manual Entry",
+447,"226",2001-11-13 0:00:00,,"Clear","None",21.40,85,1,24.60,"VES","AD/MC/SH/HW","Manual Entry",
+448,"177",2001-11-13 0:00:00,,"Clear","None",21.40,85,1,24.60,"VES","AD/MC/SH/HW","Manual Entry",
+449,"162",2001-12-17 19:12:36,,"Clear","None",24.30,75,1,25.00,"VES","ADDJHWMCCSH","Amphibian 1",
+450,"208",2001-12-20 19:38:54,,"Partly Cloudy","Light",17.40,80,1,19.90,"VES","JHW MCC SH EC","Amphibian 1",
+451,"211",2001-12-20 18:21:15,,"Partly Cloudy","None",16.30,67,0,,"VES","MCCEC","Amphibian 1",
+452,"209",2001-12-20 20:51:19,,"Clear","None",16.50,80,0,,"VES","JHWMCCSHEC","Amphibian 2",
+453,"210",2001-12-20 18:27:53,,"Partly Cloudy","Light",16.30,67,0,,"VES","JHW SH","Amphibian 2",
+454,"223",2002-1-10 0:00:00,,"Partly Cloudy","Light",18.60,68,1,18.00,"VES and 4 funnel traps","ADDJHWBMJ","Manual Entry","Nothing caught in funnel traps"
+455,"224",2002-1-10 0:00:00,,"Partly Cloudy","Light",17.60,69,1,17.00,"VES and 4 funnel traps","ADDJHWBMJ","Manual Entry","Nothing caught in funnel traps"
+456,"225",2002-1-10 0:00:00,,"Partly Cloudy","Light",17.60,70,1,17.00,"VES and 4 funnel traps","ADDJHWBMJ","Manual Entry","Nothing caught in funnel traps"
+457,"226",2002-1-10 0:00:00,,"Partly Cloudy","Light",16.60,74,1,16.00,"VES and 4 funnel traps","ADDJHWBMJ","Manual Entry","Nothing caught in funnel traps but 2 fish"
+459,"171",2002-6-18 0:00:00,1,"Clear","Light",26.40,92,1,27.00,"VES","ADDMEC","Manual Entry","Recent heavy rain"
+460,"155",2002-6-18 0:00:00,1,"Clear","None",28.30,49,1,26.50,"VES","ADDMEC","Manual Entry",
+461,"172",2002-7-15 0:00:00,1,"Partly Cloudy","Light",28.20,76,1,32.00,"VES","ADDMEC","Manual Entry",
+462,"173",2002-7-15 0:00:00,1,"Partly Cloudy","Light",28.70,72,1,32.00,"VES","ADDMEC","Manual Entry",
+463,"171",2002-7-15 0:00:00,2,"Partly Cloudy","Light",28.10,85,1,32.00,"VES","ADDMEC","Manual Entry",
+464,"169",2002-7-15 0:00:00,1,"Clear","Light",28.00,84,1,32.00,"VES","ADDMEC","Manual Entry",
+465,"156",2002-7-16 0:00:00,1,"Partly Cloudy","None",27.30,84,1,31.00,"VES","ADDMEC","Manual Entry",
+466,"154",2002-7-16 0:00:00,1,"Partly Cloudy","None",27.40,92,1,31.00,"VES","ADDMEC","Manual Entry",
+467,"158",2002-7-16 0:00:00,1,"Partly Cloudy","None",27.10,94,1,30.00,"VES","ADDMEC","Manual Entry",
+468,"153",2002-7-16 0:00:00,1,"Partly Cloudy","None",29.00,76,1,30.00,"VES","ADDMEC","Manual Entry",
+469,"157",2002-7-23 0:00:00,1,"Clear","Light",29.60,82,1,28.00,"VES","ADDMEC","Manual Entry",
+470,"205",2002-7-23 0:00:00,1,"Partly Cloudy","Light",28.70,69,1,31.00,"VES","ADDMEC","Manual Entry",
+471,"201",2002-7-23 0:00:00,1,"Clear","Light",28.60,73,1,31.00,"VES","ADDMEC","Manual Entry",
+472,"206",2002-7-23 0:00:00,1,"Clear","None",28.70,90,1,32.00,"VES","ADDMEC","Manual Entry",
+473,"189",2002-7-24 0:00:00,1,"Partly Cloudy","None",26.20,92,1,27.00,"VES","ADDMEC","Manual Entry",
+474,"188",2002-7-24 0:00:00,1,"Partly Cloudy","None",25.60,98,0,,"VES","ADDMEC","Manual Entry",
+475,"199",2002-7-24 0:00:00,1,"Partly Cloudy","None",27.60,92,1,27.00,"VES","ADDMEC","Manual Entry",
+476,"172",2002-7-29 0:00:00,2,"Partly Cloudy","Light",24.20,93,1,29.00,"VES","ADDMEC","Manual Entry",
+477,"173",2002-7-29 0:00:00,2,"Partly Cloudy","Light",24.40,91,1,29.00,"VES","ADDMEC","Manual Entry",
+478,"169",2002-7-29 0:00:00,2,"Partly Cloudy","Light",24.30,92,1,29.00,"VES","ADDMEC","Manual Entry",
+479,"198",2002-8-3 0:00:00,1,"Partly Cloudy","None",27.60,68,1,31.50,"VES","AJMMEC","Manual Entry",
+480,"203",2002-8-3 0:00:00,1,"Partly Cloudy","Light",27.60,68,1,32.50,"VES","AJMMEC","Manual Entry",
+481,"200",2002-8-3 0:00:00,1,"Partly Cloudy","Light",27.60,68,1,32.00,"VES","AJMMEC","Manual Entry",
+482,"154",2002-8-5 0:00:00,2,"Partly Cloudy","Light",27.50,85,1,29.00,"VES","ADDMEC","Manual Entry",
+483,"153",2002-8-5 0:00:00,2,"Partly Cloudy","Light",28.10,82,1,29.00,"VES","ADDMEC","Manual Entry",
+484,"156",2002-8-5 0:00:00,2,"Partly Cloudy","Light",27.50,85,1,29.00,"VES","ADDMEC","Manual Entry",
+485,"158",2002-8-5 0:00:00,2,"Partly Cloudy","Light",26.30,89,1,29.00,"VES","ADDMEC","Manual Entry",
+486,"189",2002-8-6 0:00:00,2,"Partly Cloudy","Light",27.00,85,1,26.00,"VES","ADDMEC","Manual Entry","Gca on trail outside of plot (transect)"
+487,"206",2002-8-6 0:00:00,2,"Partly Cloudy","Light",28.50,75,1,30.50,"VES","ADDMEC","Manual Entry",
+488,"201",2002-8-6 0:00:00,2,"Partly Cloudy","Light",29.00,71,1,28.00,"VES","ADDMEC","Manual Entry",
+489,"205",2002-8-6 0:00:00,2,"Partly Cloudy","Light",27.00,86,1,30.00,"VES","ADDMEC","Manual Entry",
+490,"176",2002-8-22 0:00:00,1,"Clear","Light",30.00,74,1,31.00,"VES","ADDMEC","Manual Entry",
+491,"175",2002-8-22 0:00:00,1,"Partly Cloudy","Light",28.40,80,1,31.00,"VES","ADDMEC","Manual Entry",
+492,"174",2002-8-22 0:00:00,1,"Clear","Light",28.40,78,1,33.00,"VES","ADDMEC","Manual Entry",
+493,"170",2002-8-22 0:00:00,1,"Partly Cloudy","Light",28.10,83,1,31.00,"VES","ADDMEC","Manual Entry",
+494,"199",2002-8-27 0:00:00,2,"Cloudy","Light",29.30,76,1,27.00,"VES","ADDMEC","Manual Entry",
+495,"204",2002-8-27 0:00:00,1,"Cloudy","Light",30.50,70,1,30.00,"VES","ADDMEC","Manual Entry",
+496,"202",2002-8-27 0:00:00,1,"Cloudy","Light",31.10,62,1,25.00,"VES","ADDMEC","Manual Entry",
+497,"197",2002-8-27 0:00:00,1,"Cloudy","Light",31.10,62,1,25.00,"VES","ADDMEC","Manual Entry",
+498,"155",2002-9-5 0:00:00,2,"Cloudy","None",25.70,84,1,27.00,"VES","ADDMEC","Manual Entry",
+499,"197",2002-9-12 0:00:00,2,"Partly Cloudy","None",28.60,80,1,27.50,"VES","ADDRGC","Manual Entry",
+500,"202",2002-9-12 0:00:00,2,"Partly Cloudy","None",28.60,81,1,25.00,"VES","ADDRGC","Manual Entry",
+501,"204",2002-9-12 0:00:00,2,"Partly Cloudy","None",25.70,99,1,27.00,"VES","ADDRGC","Manual Entry",
+502,"157",2002-9-12 0:00:00,2,"Partly Cloudy","Light",25.40,98,1,27.00,"VES","ADDRGC","Manual Entry",
+503,"174",2002-9-17 0:00:00,2,"Partly Cloudy","Moderate",28.30,95,1,31.00,"VES","ADDDL","Manual Entry",
+504,"176",2002-9-17 0:00:00,2,"Partly Cloudy","Light",28.50,94,1,32.00,"VES","ADDDL","Manual Entry",
+505,"175",2002-9-17 0:00:00,2,"Partly Cloudy","Light",27.20,99,1,32.00,"VES","ADDDL","Manual Entry",
+506,"170",2002-9-17 0:00:00,2,"Partly Cloudy","Light",26.60,99,1,31.00,"VES","ADDDL","Manual Entry",
+507,"200",2002-9-21 0:00:00,2,"Clear","Light",28.90,75,1,29.00,"VES","ADDMEC","Manual Entry",
+508,"203",2002-9-21 0:00:00,2,"Partly Cloudy","Light",28.00,86,1,29.00,"VES","ADDMEC","Manual Entry",
+509,"198",2002-9-21 0:00:00,2,"Clear","Moderate",28.00,88,1,27.40,"VES","ADDMEC","Manual Entry",
+510,"188",2002-9-21 0:00:00,2,"Clear","None",26.60,88,0,,"VES","ADDMEC","Manual Entry",
+559,"219",2002-7-1 20:26:11,1,"Partly Cloudy","Light",26.00,86,1,30.00,"VES","AJM BMJ JHW","BICY Computer","1569"
+560,"220",2002-7-1 21:28:16,1,"Partly Cloudy","None",24.30,90,1,28.00,"VES","BMJ AJM JHW","BICY Computer","1566"
+561,"221",2002-7-1 22:15:01,1,"Clear","None",24.70,93,1,26.00,"VES","AJM BMJ JHW","BICY Computer","1567"
+562,"222",2002-7-1 23:04:43,1,"Clear","Light",24.90,92,1,28.00,"VES","AJM BMJ JHW","BICY Computer","1568"
+563,"250",2002-7-11 20:34:48,1,"Partly Cloudy","Light",26.50,83,1,28.50,"VES","AJM BMJ JHW","BICY Computer","1975"
+564,"249",2002-7-11 21:11:23,1,"Partly Cloudy","Light",26.10,90,1,28.00,"VES","AJM BMJ JHW","BICY Computer","2008"
+565,"190",2002-7-11 22:18:26,1,"Partly Cloudy","None",26.10,94,0,,"VES","AJM BMJ JHW","BICY Computer","1767"
+566,"245",2002-7-11 23:03:13,1,"Partly Cloudy","Light",25.30,91,1,28.00,"VES","AJM BMJ JHW","BICY Computer","1933"
+567,"247",2002-7-11 23:39:15,1,"Partly Cloudy","None",25.80,95,1,28.00,"VES","AJM BMJ JHW","BICY Computer","1872"
+568,"250",2002-8-8 20:31:56,2,"Cloudy","Strong",27.70,79,1,34.50,"VES","JHW ccw","BICY Computer","1975"
+569,"249",2002-8-8 21:12:18,2,"Cloudy","Strong",26.90,79,1,33.00,"VES","JHW ccw","BICY Computer","2008"
+570,"190",2002-8-8 22:18:00,2,"Partly Cloudy","Light",26.40,84,0,,"VES","JHW ccw","BICY Computer","1767"
+571,"245",2002-8-8 23:12:59,2,"Partly Cloudy","Light",26.40,84,1,33.00,"VES","JHW ccw","BICY Computer","1933"
+572,"247",2002-8-9 0:07:43,2,"Partly Cloudy","Light",26.90,84,1,32.50,"VES","JHW ccw","BICY Computer","1872"
+573,"216",2002-8-15 20:15:50,1,"Partly Cloudy","Light",31.40,66,0,,"VES","JHW BMJ","BICY Computer","1626"
+574,"218",2002-8-15 21:30:38,1,"Partly Cloudy","Light",29.70,70,0,,"VES","BMJ JHW","BICY Computer","1713"
+575,"217",2002-8-15 22:44:56,1,"Partly Cloudy","Light",28.80,69,0,,"VES","BMJ JHW","BICY Computer","1673"
+576,"214",2002-8-16 0:14:42,1,"Partly Cloudy","Light",27.80,82,0,,"VES","BMJ JHW","BICY Computer","1654"
+577,"215",2002-8-16 1:33:20,1,"Partly Cloudy","Light",26.80,81,0,,"VES","BMJ JHW","BICY Computer","1622"
+578,"222",2002-8-28 21:31:25,2,"Partly Cloudy","None",25.30,88,0,,"VES","AJMJHW","BICY Computer","1568"
+579,"221",2002-8-28 22:21:21,2,"Partly Cloudy","None",25.10,88,0,,"VES","AJM JHW","BICY Computer","1567"
+580,"219",2002-8-28 23:26:58,2,"Partly Cloudy","None",24.10,96,1,27.00,"VES","AJM JHW","BICY Computer","1569"
+581,"220",2002-8-29 0:10:42,2,"Partly Cloudy","None",24.70,94,0,,"VES","AJM JHW","BICY Computer","1566"
+582,"216",2002-9-16 19:59:46,2,"Partly Cloudy","Light",29.30,69,0,,"VES","BMJ JHW","BICY Computer","1626"
+583,"218",2002-9-16 20:50:46,2,"Partly Cloudy","Light",28.90,77,0,,"VES","BMJ JHW","BICY Computer","1713"
+584,"217",2002-9-16 21:55:08,2,"Partly Cloudy","Light",28.90,76,0,,"VES","BMJ JHW","BICY Computer","1673"
+585,"214",2002-9-16 23:08:07,2,"Partly Cloudy","Light",28.20,86,0,,"VES","BMJ JHW","BICY Computer","1654"
+586,"215",2002-9-17 0:11:13,2,"Partly Cloudy","Light",27.40,84,0,,"VES","JHW BMJ","BICY Computer","1622"
+587,"241",2002-9-23 20:04:23,1,"Cloudy","Light",25.50,96,1,26.00,"VES","AJM BMJ JHW","BICY Computer","1776"
+588,"251",2002-9-23 20:51:03,1,"Rain","Moderate",25.50,96,1,28.00,"VES","AJM BMJ JHW","BICY Computer","1909"
+589,"239",2002-9-24 20:40:40,1,"Partly Cloudy","Light",29.00,80,1,32.00,"VES","BMJ JHW","BICY Computer","1972"
+590,"185",2002-9-24 21:06:57,1,"Partly Cloudy","Light",28.90,84,1,29.00,"VES","BMJ JHW","BICY Computer","1769"
+591,"240",2002-9-24 21:41:49,1,"Rain","Light",27.50,98,1,29.00,"VES","BMJ JHW","BICY Computer","1949"
+592,"242",2002-9-24 22:24:57,1,"Cloudy","Light",25.90,90,1,30.00,"VES","BMJ-JHW","BICY Computer","2016"
+593,"243",2002-9-25 20:50:17,1,"Partly Cloudy","Moderate",28.80,84,1,28.00,"VES","BMJ AJM","BICY Computer","1805"
+594,"244",2002-9-25 21:26:47,1,"Partly Cloudy","Moderate",28.10,88,1,28.00,"VES","BMJ AJM","BICY Computer","1922"
+595,"246",2002-9-25 22:03:17,1,"Partly Cloudy","Moderate",28.10,91,1,29.00,"VES","BMJ AJM","BICY Computer","2116"
+596,"248",2002-9-25 22:42:37,1,"Partly Cloudy","Moderate",27.90,94,1,29.00,"VES","BMJ AJM","BICY Computer","2122"
+597,"239",2002-10-1 19:52:28,2,"Partly Cloudy","Strong",28.60,82,1,30.00,"VES","BMJ AJM","BICY Computer","1972"
+598,"185",2002-10-1 20:20:43,2,"Partly Cloudy","Strong",27.90,88,1,29.00,"VES","AJM BMJ","BICY Computer","1769"
+599,"240",2002-10-1 20:55:34,2,"Partly Cloudy","Strong",28.10,89,1,28.00,"VES","BMJ AJM","BICY Computer","1949"
+600,"242",2002-10-1 21:33:18,2,"Partly Cloudy","Strong",27.80,90,1,29.00,"VES","BMJ AJM","BICY Computer","2016"
+601,"243",2002-10-2 20:06:35,2,"Clear","Light",28.10,79,1,28.50,"VES","BMJ AJM","BICY Computer","1805"
+602,"244",2002-10-2 20:42:19,2,"Clear","Light",27.40,82,1,28.00,"VES","BMJ AJM","BICY Computer","1922"
+603,"246",2002-10-2 21:15:38,2,"Partly Cloudy","Light",27.20,84,1,30.00,"VES","AJM BMJ","BICY Computer","2116"
+604,"248",2002-10-3 19:32:18,2,"Partly Cloudy","Light",28.30,77,1,30.00,"VES","AJM BMJ cory","BICY Computer","2122"
+605,"251",2002-10-3 20:12:52,2,"Partly Cloudy","Light",27.70,78,1,28.50,"VES","AJM BMJ cory","BICY Computer","1909"
+606,"241",2002-10-3 20:38:07,2,"Partly Cloudy","Light",26.90,77,1,27.00,"VES","AJM BMJ cory","BICY Computer","1776"
+607,"213",2001-7-13 0:00:00,2,"Partly Cloudy","None",27.50,63,0,,"VES","JHW MCC SH dp","Manual Entry","searcged from boat"
+608,"165",2002-10-10 0:00:00,,"Partly Cloudy","Light",27.20,79,1,27.00,"VES","JHW AJM","Manual Entry",
+609,"148",2002-10-11 0:00:00,,"Fog","None",24.30,96,0,,"VES","ADD MEC","Manual Entry",
+610,"166",2002-10-11 0:00:00,2,"Partly Cloudy","None",26.20,99,1,28.00,"VES","ADD MEC","Manual Entry",
+611,"258",2002-10-11 0:00:00,,"Partly Cloudy","None",25.70,92,1,29.00,"VES","ADD MEC","Manual Entry",
+612,"259",2002-10-11 0:00:00,,"Partly Cloudy","None",26.10,94,1,29.00,"VES","ADD MEC","Manual Entry",
